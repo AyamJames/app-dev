@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# Favorite Changes
+# Favorite Movie
 
 ## 3 Idiots
 
