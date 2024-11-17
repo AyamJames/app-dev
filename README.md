@@ -14,7 +14,7 @@ My first repository
 - **R. Madhavan** as Farhan  
 - **Sharman Joshi** as Raju
   
-### Summary oif the Film
+### Summary of the Film
 > *3 Idiots* is about three friends studying engineering. The most unusual of them all, Rancho encourages his friends to think creatively and pursue their goals. The film questions our beliefs about life, education, and achievement.
 
 ### Morals
